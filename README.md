@@ -80,7 +80,7 @@ A list of configurable rules specific to Laravel can be found [here](docs/rules.
 A list of PHPDoc types specific to Larastan can be found [here](docs/custom-types.md).
 
 ## Custom PHPStan config parameters
-A list of custom config parameters that you can use in your PHPStan config file can be found [here](docs/custom-config-paramaters.md).
+A list of custom config parameters that you can use in your PHPStan config file can be found [here](docs/custom-config-parameters.md).
 
 ## Errors To Ignore
 
